@@ -11,6 +11,8 @@
 @-moz-document domain("brainly.com") {
     
 
-           /*Style Goes Here/*   
+           .sg-layout{
+               
+               background-color: #1a1a1a;
  
 }
