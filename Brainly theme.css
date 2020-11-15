@@ -1,4 +1,4 @@
 @-moz-document domain("brainly.com") {
     .sg-layout__container {
       background-color: #262626;
-      outline-color: #ffffff;}
+      p.solid {border-style: solid;}
