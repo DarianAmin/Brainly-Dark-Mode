@@ -8,6 +8,7 @@
 =======
 ==/UserStyle== */
 
+
     .sg-layout {
         background-color: #1a1a1a;
     }
@@ -197,3 +198,9 @@
     header[class^="main-header main-header--sticky"]{
         background-color:#1a1a1a;
     }
+
+
+    button[class^="sg-button sg-button--transparent sg-button--icon-only"]{
+        background-color:white;
+    }
+
