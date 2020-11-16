@@ -24,7 +24,7 @@
 
 
 
-    .sg-layout {
+     .sg-layout {
         background-color: #1a1a1a;
     }
     .sg-layout__container {
@@ -146,9 +146,27 @@
         background-color: #1a1a1a;
     }
 
+    div[class^="brn-subject-list__subject brn-subject-list__subject--active"]{
+        background-color:#1a1a1a;
+    }
 
 
+   div[class^="brn-qpage-next-banner"]{
+       background-color:#1a1a1a;
+    } 
 
+    div[class^="brn-qpage-next-answer-box js-answer brn-qpage-next-answer-box--expert-verified"]{
+        background-color:#1a1a1a;
+    }
+
+
+    div[class^="sg-content-box brn-question-editor"]{
+        background-color:#1a1a1a;
+    }
+
+    div[class^="sg-toplayer__wrapper"]{
+        background-color:#1a1a1a;
+    }
 
 
 
