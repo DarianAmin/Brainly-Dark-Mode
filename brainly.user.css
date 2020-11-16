@@ -10,20 +10,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     .sg-layout {
         background-color: #1a1a1a;
     }
@@ -172,6 +158,23 @@
     li[class^="sg-menu-list__element"]{
         color:white;
     }
+
+    div[class^="brn-qpage-next-answer-box js-answer"]{
+        background-color:#1a1a1a;
+    }
+
+    div[class^="brn-qpage-next-answer-box"]{
+        background-color:#1a1a1a;
+    }
+
+
+
+
+
+
+
+
+
 
 
 
