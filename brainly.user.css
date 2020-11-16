@@ -16,6 +16,14 @@
 
 
 
+
+
+
+
+
+
+
+
     .sg-layout {
         background-color: #1a1a1a;
     }
@@ -134,13 +142,15 @@
         background-color:#1a1a1a;
     }
 
-    div[class^="brn-subject-list__subject brn-subject-list__subject--active"]{
+    div[class^="sg-content-box brn-answers-per-day__container"]{
         background-color: #1a1a1a;
     }
 
-    div[class^="sg-content-box brn-answers-per-day__container"]{
-        background-color:#1a1a1a;
-    }
+
+
+
+
+
 
 
 
