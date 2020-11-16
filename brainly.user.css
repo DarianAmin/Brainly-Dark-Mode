@@ -173,3 +173,27 @@
         background-color:#1a1a1a;
         color:white;
     }
+
+    section[class^="safety"]{
+        background-color:#1a1a1a;
+    }
+
+    h3[class^="sg-text-bit sg-text-bit--small sg-text-bit--black"]{
+        color:white;
+    }
+
+    div[class^="columns columns__border columns__boxed columns__wrap values__wrapper"]{
+        background-color:#1a1a1a;
+    }
+
+    section[class^="columns"]{
+        background-color:#1a1a1a;
+    }
+
+    div[class^="columns__inner"]{
+        background-color:#1a1a1a;
+    }
+
+    header[class^="main-header main-header--sticky"]{
+        background-color:#1a1a1a;
+    }
