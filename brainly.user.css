@@ -8,8 +8,6 @@
 =======
 ==/UserStyle== */
 
-
-
     .sg-layout {
         background-color: #1a1a1a;
     }
@@ -75,7 +73,7 @@
     }
 
     .brn-qpage-next-answer-box js-answer{
-        background-color:#1a1a1a;
+        background-color:#1a1a1a; 
     }
 
     .brn-qpage-next-answer-box__content{
@@ -167,24 +165,11 @@
         background-color:#1a1a1a;
     }
 
+    a[href^="https://brainly.com/question/add?entry=1613"][class^="main-header__link sg-button sg-button--link-button"]{
+        background-color:#1a1a1a;
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    a[href^="https://brainly.com/question/add?entry=1615"][class^="sg-button sg-button--secondary"]{
+        background-color:#1a1a1a;
+        color:white;
+    }
