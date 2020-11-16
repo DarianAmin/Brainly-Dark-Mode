@@ -24,7 +24,7 @@
 
 
 
-     .sg-layout {
+    .sg-layout {
         background-color: #1a1a1a;
     }
     .sg-layout__container {
@@ -166,6 +166,11 @@
 
     div[class^="sg-toplayer__wrapper"]{
         background-color:#1a1a1a;
+    }
+
+
+    li[class^="sg-menu-list__element"]{
+        color:white;
     }
 
 
