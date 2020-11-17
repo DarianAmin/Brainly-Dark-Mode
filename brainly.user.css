@@ -9,7 +9,7 @@
 ==/UserStyle== */
 
 
- .sg-layout {
+.sg-layout {
     background-color: #1a1a1a;
 }
 .sg-layout__container {
@@ -478,3 +478,9 @@ div[class^="sg-media sg-media--clickable sg-media--gray-secondary-light Notifica
     border-style: solid;
     border-color: white;
 }
+
+button[class^="sg-button sg-button--s sg-button--solid-inverted brn-tex__button"]{
+    background-color:white;
+}
+
+
