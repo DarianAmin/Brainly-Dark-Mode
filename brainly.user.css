@@ -467,3 +467,14 @@ textarea[class^="sg-textarea--gray sg-textarea sg-textarea--nested"]{
     background-color:#1a1a1a;
 }
 
+div[class^="sg-media sg-media--clickable sg-media--gray-secondary-light MessagesListItem__content--26ebD MessagesListItem__read--bLsun"]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;
+}
+
+div[class^="sg-media sg-media--clickable sg-media--gray-secondary-light NotificationsListItem__content--3pjgA NotificationsListItem__read--1pSdM NotificationsListItem__clickable--2GtO0"]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;
+}
