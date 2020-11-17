@@ -484,3 +484,6 @@ button[class^="sg-button sg-button--s sg-button--solid-inverted brn-tex__button"
 }
 
 
+textarea[class^="sg-textarea sg-textarea--short sg-textarea--full-width"]{
+    background-color:#1a1a1a;
+}
