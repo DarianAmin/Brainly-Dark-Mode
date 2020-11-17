@@ -458,3 +458,12 @@ div[class^="js-conversation-content sg-media sg-media--clickable"]{
     border-color: white;
     
 }
+
+div[class^="sg-textarea sg-textarea--auto-height sg-textarea--short"]{
+    background-color:#1a1a1a;
+}
+
+textarea[class^="sg-textarea--gray sg-textarea sg-textarea--nested"]{
+    background-color:#1a1a1a;
+}
+
