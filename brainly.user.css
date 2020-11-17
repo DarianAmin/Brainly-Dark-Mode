@@ -9,198 +9,452 @@
 ==/UserStyle== */
 
 
-    .sg-layout {
-        background-color: #1a1a1a;
-    }
-    .sg-layout__container {
-        background-color: #1a1a1a;
-        color: white;
-    }
-
-    .brn-challenge-confetti {
-        background-color: #1a1a1a;
-        color: white;
-    }
-    .sg-label *,
-    .brn-subject-list__subject--active * {
-        color: white;
-    }
-
-    .sg-select .sg-select__element {
-        background-color: #1a1a1a;
-        color: white;
-    }
-
-    .sg-headline {
-        color: white;
-    }
-
-    .sg-text {
-        color: White;
-    }
-
-    .sg-flex {
-        background-color: #1a1a1a
-    }
-
-    .sg-button__text {
-        color: white;
-    }
-
-    .sg-button {
-        background-color: #1a1a1a;
-        border-style: solid;
-        border-color: white;
-    }
-
-    .sg-icon__svg {
-        background-color: white;
-    }
-
-    .sg-bubble {
-        background-color: #1a1a1a;
-    }
-
-    .sg-input {
-        background-color: #1a1a1a;
-    }
-
-    .brn-qpage-next-question-box{
-        background-color:#1a1a1a;
-    }
-
-    .brn-qpage-next-answer-box-header{
-        background-color:#1a1a1a;
-    }
-
-    .brn-qpage-next-answer-box js-answer{
-        background-color:#1a1a1a; 
-    }
-
-    .brn-qpage-next-answer-box__content{
-        background-color:#1a1a1a;
-    }
-
-    .sg-content-box sg-content-box--spaced-bottom-large{
-        background-color: #1a1a1a;
-    }
-
-    .game-box__user-info{
-        color: #1a1a1a;
-    }
-
-    .sg-button,
-    div[class^="HeaderController__subnav"],
-    div[class^="HeaderController__innerwrap"] {
-        background-color: #1a1a1a;
-    }
-
-    
-    .sg-box,
-    div [class^="sg-box sg-box--gray-secondary-ultra-light sg-box--padding-m"]{
-        background-color: #1a1a1a;
-    } 
-
-    div [class^="HeaderController__header--yjUbB"]{
-        background-color: #1a1a1a;
-    }
-
-    div [class^="brn-answer-editor-layer brn-answer-editor-layer--short-transition-duration"]{
-        background-color: #1a1a1a;
-    }
-
-    
-        .sg-header__container{
-        background-color: #1a1a1a;
-    }
-
-    div[class^="brn-new-footer brn-footer"]{
-    background-color:#1a1a1a;
+ .sg-layout {
+    background-color: #1a1a1a;
+}
+.sg-layout__container {
+    background-color: #1a1a1a;
     color: white;
-    }
+}
 
-    div[class^="brn-qpage-next-newest-questions"]{
-        background-color:#1a1a1a;
-    }
+.brn-challenge-confetti {
+    background-color: #1a1a1a;
+    color: white;
+}
+.sg-label *,
+.brn-subject-list__subject--active * {
+    color: white;
+}
 
-    div[class^="js-footer-dropdown sg-dropdown sg-dropdown--full-width sg-dropdown--white"]{
-        background-color:#1a1a1a;
-    }
+.sg-select .sg-select__element {
+    background-color: #1a1a1a;
+    color: white;
+}
 
-    div[class^="sg-content-box brn-answers-per-day__container"]{
-        background-color: #1a1a1a;
-    }
+.sg-headline {
+    color: white;
+}
 
-    div[class^="brn-subject-list__subject brn-subject-list__subject--active"]{
-        background-color:#1a1a1a;
-    }
+.sg-text {
+    color: White;
+}
 
+.sg-flex {
+    background-color: #1a1a1a
+}
 
-   div[class^="brn-qpage-next-banner"]{
-       background-color:#1a1a1a;
-    } 
+.sg-button__text {
+    color: white;
+}
 
-    div[class^="brn-qpage-next-answer-box js-answer brn-qpage-next-answer-box--expert-verified"]{
-        background-color:#1a1a1a;
-    }
+.sg-button {
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: white;
+}
 
+.sg-icon__svg {
+    background-color: white;
+}
 
-    div[class^="sg-content-box brn-question-editor"]{
-        background-color:#1a1a1a;
-    }
+.sg-bubble {
+    background-color: #1a1a1a;
+}
 
-    div[class^="sg-toplayer__wrapper"]{
-        background-color:#1a1a1a;
-    }
+.sg-input {
+    background-color: #1a1a1a;
+}
 
+.brn-qpage-next-question-box {
+    background-color: #1a1a1a;
+}
 
-    li[class^="sg-menu-list__element"]{
-        color:white;
-    }
+.brn-qpage-next-answer-box-header {
+    background-color: #1a1a1a;
+}
 
-    div[class^="brn-qpage-next-answer-box js-answer"]{
-        background-color:#1a1a1a;
-    }
+.brn-qpage-next-answer-box js-answer {
+    background-color: #1a1a1a;
+}
 
-    div[class^="brn-qpage-next-answer-box"]{
-        background-color:#1a1a1a;
-    }
+.brn-qpage-next-answer-box__content {
+    background-color: #1a1a1a;
+}
 
-    a[href^="https://brainly.com/question/add?entry=1613"][class^="main-header__link sg-button sg-button--link-button"]{
-        background-color:#1a1a1a;
-    }
+.sg-content-box sg-content-box--spaced-bottom-large {
+    background-color: #1a1a1a;
+}
 
-    a[href^="https://brainly.com/question/add?entry=1615"][class^="sg-button sg-button--secondary"]{
-        background-color:#1a1a1a;
-        color:white;
-    }
+.game-box__user-info {
+    color: #1a1a1a;
+}
 
-    section[class^="safety"]{
-        background-color:#1a1a1a;
-    }
-
-    h3[class^="sg-text-bit sg-text-bit--small sg-text-bit--black"]{
-        color:white;
-    }
-
-    div[class^="columns columns__border columns__boxed columns__wrap values__wrapper"]{
-        background-color:#1a1a1a;
-    }
-
-    section[class^="columns"]{
-        background-color:#1a1a1a;
-    }
-
-    div[class^="columns__inner"]{
-        background-color:#1a1a1a;
-    }
-
-    header[class^="main-header main-header--sticky"]{
-        background-color:#1a1a1a;
-    }
+.sg-button,
+div[class^="HeaderController__subnav"],
+div[class^="HeaderController__innerwrap"] {
+    background-color: #1a1a1a;
+}
 
 
-    button[class^="sg-button sg-button--transparent sg-button--icon-only"]{
-        background-color:white;
-    }
+.sg-box,
+div [class^="sg-box sg-box--gray-secondary-ultra-light sg-box--padding-m"] {
+    background-color: #1a1a1a;
+}
 
+div [class^="HeaderController__header--yjUbB"] {
+    background-color: #1a1a1a;
+}
+
+div [class^="brn-answer-editor-layer brn-answer-editor-layer--short-transition-duration"] {
+    background-color: #1a1a1a;
+}
+
+
+.sg-header__container {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-new-footer brn-footer"] {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+div[class^="brn-qpage-next-newest-questions"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="js-footer-dropdown sg-dropdown sg-dropdown--full-width sg-dropdown--white"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="sg-content-box brn-answers-per-day__container"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-subject-list__subject brn-subject-list__subject--active"] {
+    background-color: #1a1a1a;
+}
+
+
+div[class^="brn-qpage-next-banner"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-qpage-next-answer-box js-answer brn-qpage-next-answer-box--expert-verified"] {
+    background-color: #1a1a1a;
+}
+
+
+div[class^="sg-content-box brn-question-editor"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="sg-toplayer__wrapper"] {
+    background-color: #1a1a1a;
+}
+
+
+li[class^="sg-menu-list__element"] {
+    color: white;
+}
+
+div[class^="brn-qpage-next-answer-box js-answer"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-qpage-next-answer-box"] {
+    background-color: #1a1a1a;
+}
+
+a[href^="https://brainly.com/question/add?entry=1613"][class^="main-header__link sg-button sg-button--link-button"] {
+    background-color: #1a1a1a;
+}
+
+a[href^="https://brainly.com/question/add?entry=1615"][class^="sg-button sg-button--secondary"] {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+section[class^="safety"] {
+    background-color: #1a1a1a;
+}
+
+h3[class^="sg-text-bit sg-text-bit--small sg-text-bit--black"] {
+    color: white;
+}
+
+div[class^="columns columns__border columns__boxed columns__wrap values__wrapper"] {
+    background-color: #1a1a1a;
+}
+
+section[class^="columns"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="columns__inner"] {
+    background-color: #1a1a1a;
+}
+
+header[class^="main-header main-header--sticky"] {
+    background-color: #1a1a1a;
+}
+
+
+
+
+
+
+
+
+
+.sg-layout {
+    background-color: #1a1a1a;
+}
+.sg-layout__container {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.brn-challenge-confetti {
+    background-color: #1a1a1a;
+    color: white;
+}
+.sg-label *,
+.brn-subject-list__subject--active * {
+    color: white;
+}
+
+.sg-select .sg-select__element {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.sg-headline {
+    color: white;
+}
+
+.sg-text {
+    color: White;
+}
+
+.sg-flex {
+    background-color: #1a1a1a
+}
+
+.sg-button__text {
+    color: white;
+}
+
+.sg-button {
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: white;
+}
+
+.sg-icon__svg {
+    background-color: white;
+}
+
+.sg-bubble {
+    background-color: #1a1a1a;
+}
+
+.sg-input {
+    background-color: #1a1a1a;
+}
+
+.brn-qpage-next-question-box {
+    background-color: #1a1a1a;
+}
+
+.brn-qpage-next-answer-box-header {
+    background-color: #1a1a1a;
+}
+
+.brn-qpage-next-answer-box js-answer {
+    background-color: #1a1a1a;
+}
+
+.brn-qpage-next-answer-box__content {
+    background-color: #1a1a1a;
+}
+
+.sg-content-box sg-content-box--spaced-bottom-large {
+    background-color: #1a1a1a;
+}
+
+.game-box__user-info {
+    color: #1a1a1a;
+}
+
+.sg-button,
+div[class^="HeaderController__subnav"],
+div[class^="HeaderController__innerwrap"] {
+    background-color: #1a1a1a;
+}
+
+
+.sg-box,
+div [class^="sg-box sg-box--gray-secondary-ultra-light sg-box--padding-m"] {
+    background-color: #1a1a1a;
+}
+
+div [class^="HeaderController__header--yjUbB"] {
+    background-color: #1a1a1a;
+}
+
+div [class^="brn-answer-editor-layer brn-answer-editor-layer--short-transition-duration"] {
+    background-color: #1a1a1a;
+}
+
+
+.sg-header__container {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-new-footer brn-footer"] {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+div[class^="brn-qpage-next-newest-questions"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="js-footer-dropdown sg-dropdown sg-dropdown--full-width sg-dropdown--white"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="sg-content-box brn-answers-per-day__container"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-subject-list__subject brn-subject-list__subject--active"] {
+    background-color: #1a1a1a;
+}
+
+
+div[class^="brn-qpage-next-banner"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-qpage-next-answer-box js-answer brn-qpage-next-answer-box--expert-verified"] {
+    background-color: #1a1a1a;
+}
+
+
+div[class^="sg-content-box brn-question-editor"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="sg-toplayer__wrapper"] {
+    background-color: #1a1a1a;
+}
+
+
+li[class^="sg-menu-list__element"] {
+    color: white;
+}
+
+div[class^="brn-qpage-next-answer-box js-answer"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="brn-qpage-next-answer-box"] {
+    background-color: #1a1a1a;
+}
+
+a[href^="https://brainly.com/question/add?entry=1613"][class^="main-header__link sg-button sg-button--link-button"] {
+    background-color: #1a1a1a;
+}
+
+a[href^="https://brainly.com/question/add?entry=1615"][class^="sg-button sg-button--secondary"] {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+section[class^="safety"] {
+    background-color: #1a1a1a;
+}
+
+h3[class^="sg-text-bit sg-text-bit--small sg-text-bit--black"] {
+    color: white;
+}
+
+div[class^="columns columns__border columns__boxed columns__wrap values__wrapper"] {
+    background-color: #1a1a1a;
+}
+
+section[class^="columns"] {
+    background-color: #1a1a1a;
+}
+
+div[class^="columns__inner"] {
+    background-color: #1a1a1a;
+}
+
+header[class^="main-header main-header--sticky"] {
+    background-color: #1a1a1a;
+}
+
+
+button[class^="sg-button sg-button--transparent sg-button--icon-only"] {
+    background-color: white;
+}
+
+
+div[class^="brn-kodiak-modal"]{
+    background-color:#1a1a1a;
+}
+
+div[class^="sg-label sg-label--gray-secondary-light"]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;    
+}
+
+div[class^="sg-label sg-label--mint-secondary-light"]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: lightgreen;        
+}
+
+div[class^="sg-label sg-label--mustard-secondary-light"]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;    
+    
+}
+
+article[class^="sg-media message "]{
+    background-color:#1a1a1a;
+
+}
+
+footer[class^="brn-chatbox__footer"]{
+    background-color:#1a1a1a;
+}
+
+div[class^="sg-media__content brn-container--4of5"]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;
+}
+
+div[class^="js-conversation-content sg-media sg-media--clickable "]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;
+    
+}
+
+div[class^="sg-media__content js-message-content"]{
+    color:white;
+}
+
+div[class^="js-conversation-content sg-media sg-media--clickable"]{
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;
+    
+}
