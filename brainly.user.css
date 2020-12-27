@@ -487,3 +487,23 @@ button[class^="sg-button sg-button--s sg-button--solid-inverted brn-tex__button"
 textarea[class^="sg-textarea sg-textarea--short sg-textarea--full-width"]{
     background-color:#1a1a1a;
 }
+
+tr[class^="brn-data-table__row"]{
+    background: none;
+    background-color:#1a1a1a;
+    border-style: solid;
+    border-color: white;
+    
+    
+}
+
+td[class^="brn-data-table__cell"]{
+    background-color:#1a1a1a;
+
+}
+div[class^="DivergentItem__container--1xkcL"]{
+    background-color:#1a1a1a;
+}
+div[class^="sg-flex sg-counter__icon-container"]{
+    background-color:#1a1a1a;
+}
