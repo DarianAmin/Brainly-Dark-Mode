@@ -501,15 +501,15 @@ td[class^="brn-data-table__cell"]{
     background-color:#1a1a1a;
 
 }
-div[class^="DivergentItem__container--1xkcL"]{
+class^="DivergentItem__container--1xkcL{
     background-color:#1a1a1a;
 }
-div[class^="sg-flex sg-counter__icon-container"]{
+sg-flex sg-counter__icon-container{
     background-color:#1a1a1a;
 }
-div [class^="brn-challenge-confetti__container:before"] {
+brn-challenge-confetti__container:before {
     background:none;
 }
-div [class^="brn-challenge-confetti__container:after"] {
+brn-challenge-confetti__container:after {
     background:none;
 }
