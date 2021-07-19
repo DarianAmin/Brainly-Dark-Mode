@@ -62,7 +62,7 @@
 }
 
 .sg-input {
-    background-color: #1a1a1a;
+    background-color: white;
 }
 
 .brn-qpage-next-question-box {
@@ -256,11 +256,11 @@ header[class^="main-header main-header--sticky"] {
 }
 
 .sg-bubble {
-    background-color: #1a1a1a;
+    background-color: white;
 }
 
 .sg-input {
-    background-color: #1a1a1a;
+    background-color: white;
 }
 
 .brn-qpage-next-question-box {
@@ -504,12 +504,53 @@ td[class^="brn-data-table__cell"]{
 div[class^="DivergentItem__container--1xkcL"]{
     background-color:#1a1a1a;
 }
-div[class^="sg-flex sg-counter__icon-container"]{
+sg-flex sg-counter__icon-container{
     background-color:#1a1a1a;
 }
-div [class^="brn-challenge-confetti__container:before"] {
-    background:none;
+.brn-challenge-confetti__container:after{
+background: none;
 }
-div [class^="brn-challenge-confetti__container:after"] {
-    background:none;
+.brn-challenge-confetti__container:before{
+background: none;
+}
+.sg-icon__svg{
+background-color:#1a1a1a;
+}
+.sg-button--transparent{
+fill: white;
+}
+.sg-icon--dark{
+fill: white;
+}
+element.style{
+background: white;
+}
+.sg-input{
+background: #1a1a1a!important;
+}
+.sg-bubble{
+background-color: #1a1a1a;
+}
+.sg-text-bit--black{
+color: white;
+}
+.ProgressTrackingPanel__container--ZaZMn{
+background-color: #1a1a1a;
+}
+.NotificationsListItem__clickable--2GtO0:hover{
+background-color: #1a1a1a;
+}
+.MessagesListItem__content--26ebD:hover{
+background-color: #1a1a1a;
+border: 2px solid white;
+}
+.MessagesListItem__content--26ebD{
+background-color: #1a1a1a;
+}
+.sg-icon--gray-light{
+fill: white!important;
+}
+.NotificationsListItem__read--1pSdM{
+background-color: #1a1a1a;
+border: 2px solid white;
 }
